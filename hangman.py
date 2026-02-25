@@ -6,7 +6,7 @@ def main():
     blank_char = "--"
     min_length = 5
     max_length = 9
-    max_guesses = 10
+    max_guesses = 20
     
     # logic setup
     guessed_letters = []
