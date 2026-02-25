@@ -4,9 +4,9 @@ import hangman_display
 def main():     
     # game settings
     blank_char = "--"
-    min_length = 6
-    max_length = 8
-    max_guesses = 6
+    min_length = 5
+    max_length = 9
+    max_guesses = 10
     
     # logic setup
     guessed_letters = []
